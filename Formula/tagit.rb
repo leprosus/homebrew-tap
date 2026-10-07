@@ -1,8 +1,8 @@
 class Tagit < Formula
   desc "To create and increment semantic Git tags"
   homepage "https://github.com/leprosus/tagit"
-  url "https://github.com/leprosus/tagit/archive/refs/tags/v0.5.0.tar.gz"
-  sha256 "d2b0d2ccdcc9e5386d45c9e9830fa5b71d3234eec297733d04e961f02e16ab69"
+  url "https://github.com/leprosus/tagit/archive/refs/tags/v0.6.0.tar.gz"
+  sha256 "34d1258cc102891298ed6e3e3070b7b43ffc9c271056353db74c50371cc289a2"
   license "MIT"
 
   depends_on "go" => :build
